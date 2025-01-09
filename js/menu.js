@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const basePath = window.location.hostname.includes('github.io') ? '/WSOA3028A_2549309/' : '/';
+    const basePath = window.location.hostname.includes('github.io') ? '/Portfolio-Website/' : '/';
 
     // Function to generate navigation HTML
     function generateNavHTML(basePath) {
